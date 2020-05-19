@@ -3,8 +3,8 @@ Library to make preferences easy
 
 
 How to use
+        
         EasyPreferences.init(this)
-
         EasyPreferences.putValue("string", "john")
         EasyPreferences.putValue("int", 1)
         EasyPreferences.putValue("long", 0L)
